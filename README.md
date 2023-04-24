@@ -6,7 +6,7 @@ Welcome to Voltra Incorporation! We are a technology company focused on creating
 
 ## About
 
-Microsoft PowerToys is a set of utilities for power users to tune and streamline their Windows experience for greater productivity. For more info on [PowerToys overviews and how to use the utilities][usingPowerToys-docs-link], or any other tools and resources for [Windows development environments](https://learn.microsoft.com/windows/dev-environment/overview), head over to [learn.microsoft.com][usingPowerToys-docs-link]! 
+Here at Voltra Incorporation, we try our best to create the best technologies and sell them for user satisfaction. We also receive user program/project requests and create them per user requests. We also help assist in public repositories with the code as a professional developers team!
 
 
 ### Contact Us
