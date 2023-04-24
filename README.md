@@ -1,6 +1,6 @@
 # Voltra Incorporation
 
-![Hero image for Microsoft PowerToys](doc/images/overview/PT_hero_image.png)
+![Banner](ImageFormBanner.png)
 
 Welcome to Voltra Incorporation! We are a technology company focused on creating and developing AIs, APIs, programs and more! We also create projects for customers on their request for the right price!
 
