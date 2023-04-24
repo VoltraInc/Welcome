@@ -28,3 +28,5 @@ Here at Voltra Incorporation, we try our best to create the best technologies an
 ***Our Mission is to create great technologies and help innovate the world with our developers group***
 
 ### More Coming Soon
+
+### *** © Copyright "Voltra Incorporation" 2023 - All Rights Reserved. ***
