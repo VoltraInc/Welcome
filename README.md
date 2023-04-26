@@ -29,4 +29,4 @@ Here at Voltra Incorporation, we try our best to create the best technologies an
 
 ### More Coming Soon
 
-### *** © Copyright "Voltra Incorporation" 2023 - All Rights Reserved. ***
+### ***© Copyright "Voltra Incorporation" 2023 - All Rights Reserved.***
